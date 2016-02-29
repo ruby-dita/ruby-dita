@@ -1,5 +1,7 @@
 *.gem
 *.rbc
+.buildpath
+.project
 /.config
 /coverage/
 /InstalledFiles
@@ -9,6 +11,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+*~
 
 ## Specific to RubyMotion:
 .dat*
